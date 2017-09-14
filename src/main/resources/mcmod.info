@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "sifire_throughtheages",
+  "name": "Through The Ages",
+  "description": "A mod focused on a semi-realistic approach to survival and technological proggression, paired with a different take on the inner workings of magic.",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["SiFire_"],
+  "credits": "The Forge and FML guys, for making forge and fml",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
